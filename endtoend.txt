@@ -1,0 +1,9 @@
+* site açılır
+* login olunur
+* favs adlı çalma listesi açılır
+* listenin sonuna scroll yapılır
+* kaç şarkı oldugu kontrol edilir
+* that's it şarkısı aratılır
+*  Şarkı seçilir
+* 7 saniye çalınır
+* şarkı mood listesine eklenir
